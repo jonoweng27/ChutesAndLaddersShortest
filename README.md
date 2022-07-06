@@ -1,2 +1,2 @@
 # ChutesAndLaddersShortest
-This is a program that can compute the minimum number of moves to win a game of Chutes &amp; Ladders, using BFS.
+This is a program that can compute the minimum number of moves to win a game of Chutes &amp; Ladders, using BFS. The game is totally controlled using the command prompt, allowing the user to add as many or as few chutes or latters as they please. It uses a Queue as the underlying data structure to store all of the possible moves, and finds the minimum number of moves to win. It prints out every move one would have to take, as well as how many that minimum number of moves is.
